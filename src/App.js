@@ -1660,7 +1660,7 @@ render(){
                              </div>
 
                               <div className="">
-                                 <select className="border border-success rounded" style={{width:'24vh'}}onChange={this.getStudent.bind(this)}
+                                 <select className="border border-success rounded" style={{width:'24vh'}} onChange={this.getStudent.bind(this)}
                                  >
                                      <option hidden>Choose Class</option>
                                      {
