@@ -23,7 +23,7 @@ import Plot1Activity from './Components/visualizations/Plot1Activity'
 
 
 
-const driver = neo4j.driver("bolt://195.134.90.158:7687", neo4j.auth.basic('neo4j', 'RsJRkN4D'))
+const driver = neo4j.driver("bolt://195.134.90.158:7687", neo4j.auth.basic('', ''))
 
 
 class App extends Component{
