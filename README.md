@@ -7,3 +7,6 @@ The purpose of this project is to enhance the MALT2 project and make a visualiza
 Yadav A, Zhou N, Mayfield C, Hambrusch S, Korb JT (2011) Introducing computational thinking in education courses. In: Proceedings of the 42nd ACM technical symposium on Computer science education, ACM, pp 465–470.
 
 Valle, L.D., Stander, J., Gresty, K., Eales, J., Wei, Y. (2018). Stakeholder perspectives on graphical tools for visualising student assessment and feedback data. Research in Learning Technology, 26, art. no. 1997.
+
+![malt2](https://user-images.githubusercontent.com/74821847/122525649-bdae2b00-d019-11eb-964c-8e438814b29f.jpg)
+
